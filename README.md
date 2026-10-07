@@ -40,5 +40,5 @@ The project represents an alpha version of a spaceship.
 The code can be built, but due to missing features one of the tests fails. The first exercise will be to fix this.
 
 
-[![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)]
-![License](https://opensource.org/licenses/Apache-2.0)
+![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
